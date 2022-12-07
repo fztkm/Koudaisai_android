@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">工大祭アプリ</string>
+    <string name="title_activity_overview_screen">OverviewScreen</string>
+    <string name="event_time">%1$s ~ %2$s</string>
+    <string name="title_activity_qrcamera">QRCameraActivity</string>
+    <string name="title_activity_reservation">ReservationActivity</string>
+    <string name="title_activity_koudaisai">工大祭アプリ</string>
+
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+
+    <!--    SignUpScreen-->
+    <string name="email_error">メールアドレスを正しく入力してください．</string>
+    <string name="password_error">パスワードは6文字以上で，数字，アルファベット(小文字・大文字)が使用できます．</string>
+    <string name="password_match_error">確認用パスワードと一致しません．</string>
+
+    <!--    SignInScreen-->
+    <string name="empty_password_error">パスワードを入力してください．</string>
+
+    <!--    ReserveScreen-->
+    <string name="no_user_error">セッションが切れました．ログインしてください.</string>
+    <string name="empty_name_error">名前を入力してください.</string>
+    <string name="empty_furigana_error">ふりがなを入力してください．</string>
+    <string name="empty_phone_error">電話番号を正しく入力してください．</string>
+    <string name="empty_select_day_error">希望入場日にチェックを入れてください</string>
+
+
+</resources>
