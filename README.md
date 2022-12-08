@@ -26,7 +26,7 @@
 
 ## 3. 使用技術
 - Kotlin
-- Compose-navigation
+- Navigation Compose
 - Jetpack Compose
 - ViewModel
 - Dagger Hilt
