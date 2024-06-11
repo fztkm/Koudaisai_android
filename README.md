@@ -1,9 +1,10 @@
 # Android版工大祭アプリ
+## [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
 
 <img width="826" alt="画面一覧の画像" src="https://user-images.githubusercontent.com/74134260/206072346-2545ebdb-052a-4a1a-a022-1fad8cd358ef.png">
 
 
-## [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 ## 1. 概要
 第60回工大祭(2022年11月実施)において実際に使用した予約・企画情報閲覧のAndroidモバイルアプリ
@@ -94,6 +95,7 @@
 
 ## 5. 機能の詳細
 　主に5つの画面から構成されいています．ホーム画面，企画一覧画面，地図画面，タイムテーブル画面，設定画面です．
+### [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 ### ホーム画面の機能
 ```
 1. 新規予約
@@ -145,4 +147,4 @@
 3. パスワード再設定メール
 4. 予約情報の全削除
 ```
-　　
+
