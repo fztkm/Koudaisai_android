@@ -2,6 +2,9 @@
 
 <img width="826" alt="画面一覧の画像" src="https://user-images.githubusercontent.com/74134260/206072346-2545ebdb-052a-4a1a-a022-1fad8cd358ef.png">
 
+
+## [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
 ## 1. 概要
 第60回工大祭(2022年11月実施)において実際に使用した予約・企画情報閲覧のAndroidモバイルアプリ
 
@@ -11,8 +14,7 @@
 開発は別のプライベートリポジトリで行いました．  
 このリポジトリにあるソースコード/アセットは，公開用として一部改変したものです．
 
-<a href="https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">
-動作デモスライドはこちら</a>
+
 
 ## 2. 主な機能
 - 予約/予約情報確認
