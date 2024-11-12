@@ -1,5 +1,5 @@
 # Android版工大祭アプリ
-## [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+## [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/F7eH6ETyVh0lpwLReMnhZA/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <img width="826" alt="画面一覧の画像" src="https://user-images.githubusercontent.com/74134260/206072346-2545ebdb-052a-4a1a-a022-1fad8cd358ef.png">
@@ -94,7 +94,7 @@
 
 ## 5. 機能の詳細
 　主に5つの画面から構成されいています．ホーム画面，企画一覧画面，地図画面，タイムテーブル画面，設定画面です．
-### [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/k39NhI8_oRRyMybJ7yBlXQ/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+### [🔗動作デモスライドはこちら](https://www.canva.com/design/DAFSl1gI8vM/F7eH6ETyVh0lpwLReMnhZA/view?utm_content=DAFSl1gI8vM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ### ホーム画面の機能
 ```
 1. 新規予約
