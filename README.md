@@ -3,8 +3,7 @@
 
 
 <img width="826" alt="画面一覧の画像" src="https://user-images.githubusercontent.com/74134260/206072346-2545ebdb-052a-4a1a-a022-1fad8cd358ef.png">
-
-
+<img width="550" alt="Koudaisai_Application_Components" src="https://github.com/user-attachments/assets/9285d0b3-c8c5-4dca-a421-cde67be10787">
 
 ## 1. 概要
 第60回工大祭(2022年11月実施)において実際に使用した予約・企画情報閲覧のAndroidモバイルアプリ
